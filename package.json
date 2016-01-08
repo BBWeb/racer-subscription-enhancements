@@ -1,0 +1,28 @@
+{
+  "name": "racer-subscription-enhancements",
+  "version": "0.1.0",
+  "description": "Racer/Derby plugin for a broader fetch/sub syntax",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "racer": "^0.8.0"
+  },
+  "author": "cjblomqvist <carl@cjblomqvist.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BBWeb/racer-subscription-enhancements.git"
+  },
+  "keywords": [
+    "derby",
+    "racer",
+    "plugin"
+  ],
+  "bugs": {
+    "url": "https://github.com/BBWeb/racer-subscription-enhancements/issues"
+  },
+  "homepage": "https://github.com/BBWeb/racer-subscription-enhancements",
+  "readmeFilename": "README.md"
+}
